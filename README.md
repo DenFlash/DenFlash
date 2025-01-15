@@ -1,6 +1,17 @@
 # Hi there, I'm DenFlash! 👋
 
 ## About Me
+
+<details>
+  <summary>Short Description</summary>
+  <p>
+    🤪 Name: Denis B.
+    ⏰ Age: 17
+    🎂 Birthday: 25.12.2007
+    📍 Location: Hessen, Germany
+  </p>
+</details>
+
 I am a programmer with a great passion for coding. I discovered programming at the age of 13 when I created my first
 small HTML website. It was simple, but it made me want to learn more.
 
