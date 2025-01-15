@@ -75,6 +75,7 @@ for me – it’s something I truly love.
 
 ## Contact & Links
 
+
 <p align="center">
   <a href="https://discord.com/users/555631805928046593">
     <img src="https://lanyard.cnrad.dev/api/555631805928046593?bg=242938&animated=true&showDisplayName=true&borderRadius=20px&hideActivity=whenNotUsed&" />
@@ -83,7 +84,7 @@ for me – it’s something I truly love.
   <a href="https://github.com/DenFlash">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a style="padding-left: 300px" href="mailto:lichtdenbub@gmail.com?body=%0D%0A---------------------------%0D%0AMessage%20created%20from%20GitHub">
+  <a href="mailto:lichtdenbub@gmail.com?body=%0D%0A---------------------------%0D%0AMessage%20created%20from%20GitHub">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
