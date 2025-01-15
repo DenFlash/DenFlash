@@ -1,7 +1,5 @@
 # Hi there, I'm DenFlash! 👋
 
----
-
 ## About Me
 I am a programmer with a great passion for coding. I discovered programming at the age of 13 when I created my first
 small HTML website. It was simple, but it made me want to learn more.
@@ -20,8 +18,6 @@ web development there. I learned JavaScript and PHP while also studying Java at 
 Everything feels right, and I now feel confident about entering the software industry. Programming isn’t just a hobby
 for me – it’s something I truly love.
 
----
-
 ## Skills & Technologies
 
 <details>
@@ -37,8 +33,6 @@ for me – it’s something I truly love.
     <img src="https://skillicons.dev/icons?i=bootstrap,fastapi,vue,vite" />
   </p>
 </details>
-
----
 
 ## Tools & Platforms
 
@@ -63,8 +57,6 @@ for me – it’s something I truly love.
   </p>
 </details>
 
----
-
 ## DevOps & Deployment
 
 <details>
@@ -80,8 +72,6 @@ for me – it’s something I truly love.
     <img src="https://skillicons.dev/icons?i=elasticsearch" />
   </p>
 </details>
-
----
 
 ## Contact & Links
 
