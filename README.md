@@ -56,7 +56,7 @@ for me – it’s something I truly love.
 <details>
   <summary>Development Tools</summary>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=pycharm,phpstorm,github,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=pycharm,phpstorm,github,stackoverflow,postman" />
   </p>
 </details>
 
