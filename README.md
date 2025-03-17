@@ -40,7 +40,7 @@ for me – it’s something I truly love.
 <details>
   <summary>Frameworks & Libraries</summary>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,fastapi,vue,vite" />
+    <img src="https://skillicons.dev/icons?i=fastapi,bootstrap,vue,vite" />
   </p>
 </details>
 
@@ -56,7 +56,7 @@ for me – it’s something I truly love.
 <details>
   <summary>Development Tools</summary>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=pycharm,phpstorm,github,stackoverflow,postman" />
+    <img src="https://skillicons.dev/icons?i=pycharm,phpstorm,webstorm,github,stackoverflow,postman" />
   </p>
 </details>
 
