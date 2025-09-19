@@ -77,7 +77,7 @@ mich nicht nur ein Hobby – es ist etwas, das ich wirklich **liebe**.
 ## Deployment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,nodejs" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx" />
 </p>
 
 ## Kontakt & Links
