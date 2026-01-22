@@ -22,7 +22,7 @@ mich nicht nur ein Hobby – es ist etwas, das ich wirklich **liebe**.
   <summary>Weitere Informationen</summary>
   <p>
     🏷️ Name: Denis<br/>
-    ⏰ Alter: 17<br/>
+    ⏰ Alter: 18<br/>
     🎂 Geburtstag: 25.12.2007<br/>
     📍 Wohnort: Hessen, Deutschland
   </p>
